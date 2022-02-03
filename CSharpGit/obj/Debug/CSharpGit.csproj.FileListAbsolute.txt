@@ -1,0 +1,6 @@
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/bin/Debug/CSharpGit.exe
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/bin/Debug/CSharpGit.pdb
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/obj/Debug/CSharpGit.csproj.AssemblyReference.cache
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/obj/Debug/CSharpGit.csproj.CoreCompileInputs.cache
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/obj/Debug/CSharpGit.exe
+/Users/davidperkins/Projects/CSharpGit/CSharpGit/obj/Debug/CSharpGit.pdb

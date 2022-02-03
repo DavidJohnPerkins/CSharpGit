@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{66D150A7-4C2D-4982-894A-DC5D0D17FECA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpGit/Program.cs">
+    <Files>
+      <File FileName="CSharpGit/Program.cs" Line="9" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpGit" expanded="True">
+            <Node name="CSharpGit" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpGit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
